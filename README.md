@@ -1,2 +1,2 @@
 # first-demo
-this is to understand git &amp; github
+this is to understand git &amp; github.
